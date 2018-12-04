@@ -9,10 +9,10 @@ Demo a CRUD RestFul API :
 
 # Usages
   - Step 1: Start project
-  - Step 2: Open browser/postman type "localhost:8080/api/topics"
+  - Step 2: Open browser/postman type "localhost:8989/api/topics"
  
 # Detail
-Host: localhost:8080/api
+Host: localhost:8989/api
 
     - GET - /topics 
     - GET - /topics/{id}
